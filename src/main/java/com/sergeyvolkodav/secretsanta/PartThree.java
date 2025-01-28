@@ -1,5 +1,4 @@
 package com.sergeyvolkodav.secretsanta;
-
 import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
@@ -7,7 +6,7 @@ import java.util.Map;
 import java.util.NavigableMap;
 import java.util.Random;
 import java.util.function.Predicate;
-
+// Making change
 import com.sergeyvolkodav.secretsanta.exceptions.ErrorCode;
 import com.sergeyvolkodav.secretsanta.exceptions.SecretSantaException;
 import com.sergeyvolkodav.secretsanta.model.Member;
